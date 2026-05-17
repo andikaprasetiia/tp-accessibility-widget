@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - 2026-05-17
+## [1.0.0] - Initial Stable Release
 
 ### Added
 - Text resize functionality
